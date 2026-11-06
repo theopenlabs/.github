@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="112" fill="#1C1A17"/>
+  <!-- An open ring: a circle with a gap, for "built in the open" -->
+  <path d="M 287.1 140.1 A 120 120 0 1 0 371.9 224.9" fill="none" stroke="#FAF9F7" stroke-width="56" stroke-linecap="round"/>
+</svg>
